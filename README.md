@@ -9,6 +9,6 @@ Google drive: https://drive.google.com/file/d/11PW9qu9IMzmlcoQ2Ydt4UxWqJpWfaB7J/
 
 ```HTML
 <video width="320" height="240" controls>
-    <source src="[movie.mp4](https://drive.google.com/file/d/11PW9qu9IMzmlcoQ2Ydt4UxWqJpWfaB7J/view)" type="video/mp4">
+    <source src="https://drive.google.com/file/d/11PW9qu9IMzmlcoQ2Ydt4UxWqJpWfaB7J/view?usp=sharing" type="video/mp4">
 </video>
 ```
