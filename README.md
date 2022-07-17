@@ -6,7 +6,7 @@ The code will be released soon.
 
 # Video demo for long-term visual localization using the proposed IILB descriptor
 
-![](https://github.com/roylin1229/long-term-loc/blob/main/img/demo.png)
+![](https://github.com/roylin1229/IILB_descriptor/blob/main/img/demo.png)
 
 Legends:  
 IMU: Inertial Measurement Unit  
