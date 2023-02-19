@@ -1,5 +1,5 @@
 # IILB_descriptor
-X. Lin, Y. Zhou, Y. Liu and C. Zhu, "Illumination-insensitive Line Binary Descriptor Based on Hierarchical Band Difference," in IEEE Transactions on Circuits and Systems II: Express Briefs, doi: 10.1109/TCSII.2023.3244990.
+X. Lin, Y. Zhou, Y. Liu and C. Zhu, "Illumination-insensitive Line Binary Descriptor Based on Hierarchical Band Difference," in IEEE Transactions on Circuits and Systems II: Express Briefs, 2023, doi: 10.1109/TCSII.2023.3244990.
 
 The code will be released soon.
 
