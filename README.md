@@ -6,7 +6,7 @@ Email: roylin_cv@163.com
 The code will be released soon.
 
 
-# Video demo for the visual localization using the proposed IILB descriptor
+# Video demo
 
 [![](https://github.com/roylin1229/IILB_descriptor/blob/main/img.png)](https://drive.google.com/file/d/1dMgADQvsN_Eu_AOZfxD0o-hnmMCgf42e/view?usp=sharing)  
 
